@@ -2,5 +2,11 @@
   "editor.defaultFormatter": "ms-dotnettools.csdevkit",
   "[csharp]": {
     "editor.defaultFormatter": "ms-dotnettools.csharp"
+  },
+  "[typescript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[typescriptreact]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
   }
 }
